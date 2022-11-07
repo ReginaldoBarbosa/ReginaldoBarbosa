@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ReginaldoBarbosa
-- 👀 I’m interested in electronic, microcontroller, economy and physics  
-- 🌱 I’m currently learning electronic
+- 👀 I’m interested in c, c++, assemly and python  
+- 🌱 I’m Electronic Engineer
 - 💞️ I’m looking to collaborate on microcontroller systems 
-- 📫 i can be found in linkedin.com/in/reginaldobarbosa1998/
+- 📫 Linkedin: linkedin.com/in/reginaldobarbosa1998/
 
 <!---
-ReginaldoBarbosa is a electronic engineering and economy student. 
+ReginaldoBarbosa is a electronic engineering. 
 --->
