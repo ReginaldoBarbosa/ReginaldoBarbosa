@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReginaldoBarbosa
-- 👀 I’m interested in c, c++, assemly and python  
-- 🌱 I’m Electronic Engineer
-- 💞️ I’m looking to collaborate on microcontroller systems 
+- 👀 I’m interested in C, C++, ASSEMBLY, PYTHON and VHDL  
+- 🌱 I’m Electronic Engineer Student 
+- 💞️ I’m trying to collaborate on microcontroller systems 
 - 📫 Linkedin: linkedin.com/in/reginaldobarbosa1998/
 
 <!---
